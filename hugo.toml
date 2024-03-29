@@ -6,8 +6,4 @@ title = 'My New Hugo Site'
   [[module.imports]]
     path = "github.com/lxndrblz/anatole"
     disable = false
-[params]
-title = "I'm Arshad Hussain"
-author = "unibik"
-description = "Arshad Jane"
-profilePicture = "images/profile.jpg"
+
