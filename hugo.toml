@@ -8,4 +8,4 @@ title = 'My New Hugo Site'
     disable = false
 
 [params]
-profilePicture = "images/profile pic.jpg"
+profilePicture = "images/profle pic.jpg"
