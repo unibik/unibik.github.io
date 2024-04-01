@@ -7,3 +7,5 @@ title = 'My New Hugo Site'
     path = "github.com/lxndrblz/anatole"
     disable = false
 
+[params]
+profilePicture = "images/profile_pic.jpg"
