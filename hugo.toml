@@ -9,6 +9,7 @@ title = 'My New Hugo Site'
 
 [params]
 profilePicture = "images/profile pic2.png"
+disableThemeSwitcher = false
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -43,4 +44,3 @@ url = "mailto:arshad.chotu10@gmail.com"
   weight = 200
   identifier = "posts"
   url = "/post/"
-
