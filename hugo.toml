@@ -21,6 +21,11 @@ title = "github"
 url = "https://github.com/unibik"
 
 [[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/arshadchotu10/"
+
+[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:arshad.chotu10@gmail.com"
