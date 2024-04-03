@@ -9,7 +9,8 @@ title = 'My New Hugo Site'
 
 [params]
 profilePicture = "images/profile pic2.png"
-disableThemeSwitcher = false
+displayMode = "dark"
+disableThemeSwitcher = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
