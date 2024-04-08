@@ -1,6 +1,6 @@
 baseURL = 'https://unibik.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'unibik'
 
 [module]
   [[module.imports]]
