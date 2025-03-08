@@ -20,3 +20,5 @@ To prepare for GSoC, I started contributing to **VulnerableCode**, a project und
 As part of my learning journey, I have been diving deeper into **Django REST Framework (DRF)** to build and work with APIs efficiently. So far, I have successfully raised **two pull requests (PRs)** in the **VulnerableCode** project, marking my progress in open-source development.
 
 This experience has been incredibly rewarding, and I look forward to expanding my knowledge while making meaningful contributions to the open-source community.
+**I have raised third pull request**: The pr is about to fix an issue to expose severities in affectedbypackages field in api response of version 2. I also modified test cases, because of adding new feature. To make tests even good, my mentor asked me to update or add new test case for non-empty severity section.
+So currently i'm working on to **add new test case**... 

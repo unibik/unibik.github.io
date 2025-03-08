@@ -6,7 +6,18 @@
     <description>Recent content in Posts on unibik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2024 22:16:38 +0530</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Apr 2024 22:16:38 +0530</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_Learnings</title>
+      <link>http://localhost:1313/post/mylearnings/</link>
+      <pubDate>Tue, 30 Apr 2024 22:16:38 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/mylearnings/</guid>
+      
+        <description>Here I&#39;m gonna share my current learnings</description>
+      
+    </item>
+    
     <item>
       <title>Intro</title>
       <link>http://localhost:1313/post/myfirstpost/</link>
